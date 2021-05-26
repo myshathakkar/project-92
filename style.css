@@ -1,0 +1,13 @@
+#main_div
+{
+    width: 80px;
+    height: 40px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 13px;
+    border-style:double ;
+}
+.body_css
+{
+    background-color: rgb(249, 253, 7);
+    
+}
